@@ -1,27 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Unit 1 — C++ Programming (README)</title>
-  <style>
-    :root{--bg:#0f1724;--card:#0b1220;--muted:#94a3b8;--accent:#60a5fa;--glass:rgba(255,255,255,0.03)}
-    body{font-family:Inter,Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,#071025 0%,#0b1220 100%);color:#e6eef8;margin:0;padding:32px}
-    .container{max-width:900px;margin:0 auto}
-    header{display:flex;align-items:center;gap:16px}
-    header h1{margin:0;font-size:28px}
-    header p{margin:0;color:var(--muted)}
-    .card{background:var(--card);padding:20px;border-radius:12px;box-shadow:0 6px 18px rgba(2,6,23,0.6);margin-top:20px}
-    h2{color:#fff;margin-top:0}
-    ul{line-height:1.6}
-    pre{background:var(--glass);padding:12px;border-radius:8px;overflow:auto;color:#dbeafe}
-    code{font-family:SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace}
-    .badge{display:inline-block;background:linear-gradient(90deg,var(--accent),#7dd3fc);padding:6px 10px;border-radius:999px;color:#022; font-weight:600}
-    .grid{display:grid;grid-template-columns:1fr 240px;gap:20px}
-    .small{font-size:13px;color:var(--muted)}
-    footer{margin-top:20px;color:var(--muted);font-size:13px}
-    @media(max-width:880px){.grid{grid-template-columns:1fr}}
-  </style>
 </head>
 <body>
   <div class="container">
