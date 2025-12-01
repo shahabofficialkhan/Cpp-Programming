@@ -24,9 +24,7 @@
 └── notes.pdf
         </code></pre>
 
-        <h2>How to Run</h2>
-        <p class="small">Run the examples from terminal using <code>g++</code> or use an IDE like VS Code.</p>
-        <pre><code># Compile
+       
 g++ filename.cpp -o program
 # Run (Linux / macOS)
 ./program
