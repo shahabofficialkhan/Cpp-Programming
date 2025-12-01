@@ -1,22 +1,10 @@
-</head>
-<body>
-  <div class="container">
-    <header>
-      <div>
-        <h1>Unit 1 — C++ Programming Fundamentals</h1>
-        <p class="small">A clean, GitHub-ready HTML README for Unit 1 (copy to <code>README.md</code> or host as HTML)</p>
-      </div>
-      <div style="margin-left:auto;text-align:right">
-        <span class="badge">Unit 1</span>
-      </div>
-    </header>
 
-    <div class="grid">
+ <div class="grid">
       <main class="card">
         <h2>Overview</h2>
         <p>This unit introduces the basics of programming and the structure and syntax of C++ programs. It focuses on writing, compiling, and running simple C++ programs, and understanding variables, data types, input/output and basic operators.</p>
 
-        <h2>Topics Covered</h2>
+ <h2>Topics Covered</h2>
         <ul>
           <li><strong>What is Programming?</strong> — Definition, purpose, and examples.</li>
           <li><strong>Introduction to C++</strong> — Brief history and common uses (systems, games, competitive programming).</li>
@@ -26,9 +14,8 @@
           <li><strong>Basic Operators</strong> — arithmetic, assignment, increment/decrement.</li>
           <li><strong>Comments</strong> — <code>//</code> and <code>/* ... */</code>.</li>
         </ul>
-
-        <h2>Folder Structure (recommended)</h2>
-        <pre><code>Unit-01/
+<h2>Folder Structure (recommended)</h2>
+    <pre><code>Unit-01/
 │── README.md
 │── intro.cpp
 │── variables.cpp
