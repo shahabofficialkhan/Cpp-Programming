@@ -66,7 +66,7 @@ git commit -m "chore(unit-01): add unit 1 files"
 git push origin main
         </code></pre>
 
-        <h3>Extra</h3>
+     <h3>Extra</h3>
         <p class="small">Want me to generate a <code>notes.pdf</code> or sample .cpp files? I can create them for you.</p>
       </aside>
     </div>
